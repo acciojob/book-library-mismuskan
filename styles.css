@@ -19,7 +19,10 @@ backgroun-color:#ffffff;
 h4{
 	text-align:left;
 }
-
+.white{
+	height:10px;
+	background-color:white;
+}
 .price{
 	background-color:#2ecc71;
 }
