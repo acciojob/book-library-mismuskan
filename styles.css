@@ -3,15 +3,24 @@ body{
 	background-color:#f8f8f8;
 	align-items:center;
 }
+.main{
+	background-color:#f8f8f8;
+	box-shadow:2px 3px 4px black;
+	text-align:center;
+}
 .book-library{
 backgroun-color:#ffffff;	
 }
 p{
 	color:#777777;
+	text-align:left;
+	
 }
 h4{
-/* 	color:#777777; */
+	text-align:left;
+/* 	color:#777777; */\
 }
+
 .price{
 	background-color:#2ecc71;
 	text-align:center;
