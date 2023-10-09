@@ -11,17 +11,15 @@ body{
 .book-library{
 backgroun-color:#ffffff;	
 }
-p{
+.author{
 	color:#777777;
 	text-align:left;
 	
 }
 h4{
 	text-align:left;
-/* 	color:#777777; */\
 }
 
 .price{
 	background-color:#2ecc71;
-	text-align:center;
 }
